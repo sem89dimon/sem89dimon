@@ -2,3 +2,11 @@
 
 ## I`m a beginner QA Engeneer
 
+## Languages and Tools
+![Java](https://img.shields.io/badge/-Java-082A44?style=for-the-badge&logo=java)
+![Html](https://img.shields.io/badge/-Html-082A44?style=for-the-badge&logo=html)
+![SQL](https://img.shields.io/badge/-SQL-082A44?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-082A44?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-082A44?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-082A44?style=for-the-badge&logo=postman)
+![Soap](https://img.shields.io/badge/-Soap-082A44?style=for-the-badge&logo=soap)
