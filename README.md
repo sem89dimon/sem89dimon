@@ -12,6 +12,6 @@
 ![Soap](https://img.shields.io/badge/-Soap-082A44?style=for-the-badge&logo=soap)
 
 ## Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-082A44?style=for-the-badge&logo=telegram)
-[![Instagram](https://img.shields.io/badge/-instagram-082A44?style=for-the-badge&logo=instagram)](instagram.com/dimonsem)
-[![Vk](https://img.shields.io/badge/-VK-082A44?style=for-the-badge&logo=vk)](vk.com/sem_89)
+[![Telegram](https://img.shields.io/badge/-Telegram-082A44?style=for-the-badge&logo=telegram)](https://t.me/sem_89)
+[![Instagram](https://img.shields.io/badge/-instagram-082A44?style=for-the-badge&logo=instagram)](https://instagram.com/dimonsem)
+[![Vk](https://img.shields.io/badge/-VK-082A44?style=for-the-badge&logo=vk)](https://vk.com/sem_89)
