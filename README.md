@@ -3,7 +3,7 @@
 ## I`m a beginner QA Engeneer
 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/-Java-082A44?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-082A44?style=for-the-badge&logo=python)
 ![Html](https://img.shields.io/badge/-Html-082A44?style=for-the-badge&logo=html)
 ![SQL](https://img.shields.io/badge/-SQL-082A44?style=for-the-badge&logo=mysql)
 ![Linux](https://img.shields.io/badge/-Linux-082A44?style=for-the-badge&logo=linux)
@@ -12,6 +12,6 @@
 ![Soap](https://img.shields.io/badge/-Soap-082A44?style=for-the-badge&logo=soap)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-082A44?style=for-the-badge&logo=telegram)](https://t.me/sem_89)
+[![Telegram](https://img.shields.io/badge/-Telegram-082A44?style=for-the-badge&logo=telegram)](https://t.me/dv_qa)
 [![Instagram](https://img.shields.io/badge/-instagram-082A44?style=for-the-badge&logo=instagram)](https://instagram.com/dimonsem)
 [![Vk](https://img.shields.io/badge/-VK-082A44?style=for-the-badge&logo=vk)](https://vk.com/sem_89)
