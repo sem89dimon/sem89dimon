@@ -1,6 +1,6 @@
 ![Header](https://github.com/sem89dimon/sem89dimon/blob/main/assets/Dmitriy%20Semenov.png)
 
-## I`m a beginner QA Engeneer
+## I`m QA Engeneer
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-082A44?style=for-the-badge&logo=python)
